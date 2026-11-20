@@ -41,7 +41,7 @@
     var p = C.perfil;
     return el('header', { class: 'encabezado' }, [
       el('div', { class: 'marca' }, [
-        el('img', { src: p.foto, alt: p.nombre }),
+        el('img', { src: 'img/sena.svg', alt: '' }),
         el('div', { class: 'marca-texto' }, [
           el('span', { class: 'marca-nombre', text: p.nombre }),
           el('span', { class: 'marca-cargo', text: t(p.cargo) })
@@ -108,7 +108,7 @@
     ]);
     var pie = el('footer', { class: 'pie' }, [
       el('div', { class: 'pie-texto' }, [
-        el('img', { src: 'img/logo-oscuro.png', alt: '' }),
+        el('img', { src: 'img/sena.svg', alt: '' }),
         el('h2', { text: t(C.contacto.titulo) }),
         el('p', { text: C.perfil.correo + ', ' + C.perfil.telefonoVisible + '. ' + t(C.contacto.texto) })
       ]),
