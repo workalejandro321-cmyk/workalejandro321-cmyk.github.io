@@ -77,16 +77,6 @@ window.CONTENIDO = {
         "es": "en ventas en tres meses, en una campaña donde fui parte del equipo creativo.",
         "en": "in sales in three months, on a campaign where I was part of the creative team."
       }
-    },
-    {
-      "cifra": {
-        "es": "De 1.000 a 11.000",
-        "en": "From 1,000 to 11,000"
-      },
-      "texto": {
-        "es": "seguidores en un año para SOMOS.",
-        "en": "followers in one year for SOMOS."
-      }
     }
   ],
   "trabajo": {
@@ -227,10 +217,6 @@ window.CONTENIDO = {
       "descripcion": {
         "es": "Desde la edición rediseñamos el creativo: ganchos, ritmo y llamados a la acción probados de forma sistemática en Meta Ads. También edité su contenido orgánico y el VSL de su diplomado.",
         "en": "We rebuilt the creative from the edit: hooks, pacing and calls to action tested systematically on Meta Ads. I also edited their organic content and the VSL for their program."
-      },
-      "resultado": {
-        "es": "De 1.000 a 11.000 seguidores en un año.",
-        "en": "From 1,000 to 11,000 followers in one year."
       },
       "enlaces": [
         {
