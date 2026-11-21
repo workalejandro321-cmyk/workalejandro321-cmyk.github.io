@@ -74,8 +74,8 @@ window.CONTENIDO = {
         "en": "~USD 300K"
       },
       "texto": {
-        "es": "en ventas en tres meses con los anuncios de SOMOS.",
-        "en": "in sales in three months from SOMOS video ads."
+        "es": "en ventas en tres meses, en una campaña donde fui parte del equipo creativo.",
+        "en": "in sales in three months, on a campaign where I was part of the creative team."
       }
     },
     {
@@ -221,16 +221,16 @@ window.CONTENIDO = {
         "en": "Leadership academy, Colombia. With Fanero."
       },
       "gancho": {
-        "es": "De anuncios estancados a $1.200 millones en ventas.",
-        "en": "From stalled ads to ~USD 300K in sales."
+        "es": "Anuncios rediseñados desde la edición.",
+        "en": "Ads rebuilt from the edit."
       },
       "descripcion": {
         "es": "Desde la edición rediseñamos el creativo: ganchos, ritmo y llamados a la acción probados de forma sistemática en Meta Ads. También edité su contenido orgánico y el VSL de su diplomado.",
         "en": "We rebuilt the creative from the edit: hooks, pacing and calls to action tested systematically on Meta Ads. I also edited their organic content and the VSL for their program."
       },
       "resultado": {
-        "es": "$1.200 M COP en ventas en tres meses de campaña y de 1.000 a 11.000 seguidores en un año.",
-        "en": "COP 1.2 billion (~USD 300K) in sales over a three-month campaign, and growth from 1,000 to 11,000 followers in one year."
+        "es": "De 1.000 a 11.000 seguidores en un año.",
+        "en": "From 1,000 to 11,000 followers in one year."
       },
       "enlaces": [
         {
